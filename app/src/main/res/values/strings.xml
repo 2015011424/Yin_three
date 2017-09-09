@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Yin_three</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_another">AnotherActivity</string>
+</resources>
